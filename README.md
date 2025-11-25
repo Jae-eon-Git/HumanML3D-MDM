@@ -6,7 +6,7 @@ Refer this official HumanML3D dataset Github repository
 
 https://github.com/EricGuo5513/HumanML3D?tab=readme-ov-file\ 
 
-(Warning: Official HumanML3D Dataset assumes UNIX environment. If you use Windows OS, you need to change its codes slightly.) 
+(Warning: Official HumanML3D dataset assumes UNIX environment. If you use Windows OS, you need to change its codes slightly.) 
 
 ## 2. Environment Setting
 This MDM environment is different from above HumanML3D dataset preprocessing environment.
